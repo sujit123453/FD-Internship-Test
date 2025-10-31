@@ -58,3 +58,5 @@ For making the "Frontend Developer Internship" assignment, i followed the follow
 8. And then we run : npm run dev 
    9.When we run the project,it give the link like : https://localhost:5000/
 10. When we click the link it open the live server in the url 
+
+1. **Sorry for the not making the same card, I try so much i can,but i cant recreate it , Due to lack of time,i creae a  simple card as you show in the url.Again sorry for that
