@@ -58,7 +58,7 @@ const Navbar = () => {
             <Search className='text-gray-300 w-5 h-5 sm:w-5 sm:h-5 md:w-6 md:h-6 hover:text-blue-600' />
             <ShoppingCart className='text-gray-300 w-5 h-5 sm:w-5 sm:h-5 md:w-6 md:h-6 hover:text-blue-600' />
             <HiOutlineMenuAlt4 
-              className='text-gray-300 w-5 h-5 sm:w-5 sm:h-5 md:w-6 md:h-6 hover:text-blue-600 sm:hidden' 
+              className='text-gray-300 w-5 h-5 sm:w-5 sm:h-5 md:w-6 md:h-6 hover:text-blue-600' 
               onClick={() => setIsMenuOpen(!isMenuOpen)}
             />
          </div>
